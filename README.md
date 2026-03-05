@@ -5,3 +5,8 @@ i dont claim any of the code in this to be mine nor do i make any tools/proxys i
 EXECUTOR TUT: Copy the below code, open your browser's developer console (F12 or Ctrl+Shift+I), paste the code, and press Enter.
 
 fetch('https://cdn.jsdelivr.net/gh/CidCaribou/Executor-Menu@latest/menu.js') .then(response => response.text()) .then(code => eval(code)) .catch(err => console.error('Failed to load Executor:', err));
+
+CREATED BY CIDCARIBOU
+https://github.com/CidCaribou/Executor-Menu
+
+# USE A PR0XY IF THE MENU IS B0Il0CK3D
